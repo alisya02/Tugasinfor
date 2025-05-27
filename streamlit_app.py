@@ -2,5 +2,5 @@ import streamlit as st
 
 st.title("Selamat Datang di Web Cinai")
 st.write(
-    "ngodingseru bersama Alisya Naila"
+    "ngoding seru bersama Alisya Naila"
 )
