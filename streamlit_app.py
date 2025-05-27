@@ -6,4 +6,4 @@ st.write(
 )
 
 st.image("IMG-20250523-WA0103.jpg", width=200)
-st.image("IMG-20250227-WA0181(1).jpg", widht=200)
+st.image("IMG-20250227-WA0181(1).jpg", width=200)
